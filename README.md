@@ -1,4 +1,4 @@
-Hi, I'm Abisha Susan Alichan
+Hi, I'm Abisha Susan Alichan.
 I'm an Electronics Graduate. 
 But currently I'm pursuing a course in Data Science.
 
