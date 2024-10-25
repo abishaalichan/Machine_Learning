@@ -1,6 +1,6 @@
 Hi, I'm Abisha Susan Alichan.
-I'm an Electronics Graduate. 
-But currently I'm pursuing a course in Data Science.
+I'm an Electronics and Communication Graduate. 
+I recently completed a course in Data Science from Luminar Technolab, Kochi. Currently I am doing an internship at Luminar Technohub.
 
 <!---
 abishaalichan/abishaalichan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
